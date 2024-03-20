@@ -1,4 +1,4 @@
-package p1_9_challenge.c1_5;
+package p1.p1_9_challenge.c1_5;
 
 public record Monster(String name, int hp, boolean isBoss) {
     public Monster {

@@ -1,4 +1,4 @@
-package p1_9_challenge.c1_1;
+package p1.p1_9_challenge.c1_1;
 
 import java.util.ArrayList;
 import java.util.Collections;

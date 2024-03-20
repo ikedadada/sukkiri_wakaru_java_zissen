@@ -1,4 +1,4 @@
-package p1_9_challenge.c1_3;
+package p1.p1_9_challenge.c1_3;
 
 import java.util.Comparator;
 
