@@ -1,0 +1,1 @@
+ java -cp "./lib/jackson-databind-2.17.0.jar:./lib/jackson-core-2.17.0.jar:./lib/jackson-annotations-2.17.0.jar:byte-buddy-1.14.12.jar" p7/p7_5_2_use_json/Main.java
