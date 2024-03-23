@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"p10.p10_3_6_use_javadoc_tag","l":"Account"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"p10.p10_3_6_use_javadoc_tag","l":"Bank"},{"p":"p10.p10_3_6_use_javadoc_tag","l":"NewAccount"}];updateSearchResults();

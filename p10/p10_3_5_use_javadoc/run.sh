@@ -1,0 +1,1 @@
+javadoc -private -d ./p10/p10_3_5_use_javadoc/doc p10/p10_3_5_use_javadoc/*.java
