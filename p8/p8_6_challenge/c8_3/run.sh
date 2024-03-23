@@ -1,0 +1,1 @@
+java -cp "./lib/jackson-databind-2.17.0.jar:./lib/jackson-core-2.17.0.jar:./lib/jackson-annotations-2.17.0.jar:byte-buddy-1.14.12.jar" p8/p8_6_challenge/c8_3/Main.java
