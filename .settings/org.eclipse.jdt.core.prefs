@@ -1,3 +1,0 @@
-# Serializableインターフェースを実装したクラスに対してシリアルUIDを持たない場合警告を出す。
-# 警告からQuickFixにて自動生成させる
-org.eclipse.jdt.core.compiler.problem.missingSerialVersion=obey
